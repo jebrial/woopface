@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Gabriel Dalay",
+    "longName": "woopface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "woopface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3c16bc6a-e236-4c2a-846e-a13121fc2a5e",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
