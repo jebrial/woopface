@@ -1,5 +1,7 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_TRENDS": 0
+    },
     "capabilities": [
         ""
     ],
@@ -7,7 +9,23 @@
     "longName": "woopface",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/RobotoCondensed-Light.ttf",
+                "name": "ROBOTO_CONDENSED_LT_20",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/RobotoCondensed-Bold.ttf",
+                "name": "ROBOTO_CONDENSED_BOLD_42",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "woopface",
